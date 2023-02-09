@@ -74,7 +74,6 @@ Syntax:
 Example:
 
 ``` json
-
 {
    "_id": 1,
    "name": "AC3 Phone",
@@ -83,3 +82,9 @@ Example:
    "available" : true
 }
 ```
+
+## Connecting to a MongoDB Database
+
+### Lesson 1
+
+Nesta foi tudo setup a coisas e não há grandes notas para tirar
